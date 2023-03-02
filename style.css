@@ -1,0 +1,97 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-size: 20px;
+    background-color: #ABAAAAF5;
+}
+.logo{
+   margin-left: 50px; 
+   margin-top: 2px;
+   width: 120px; 
+   height: 120px;
+}
+header{
+    height: 120px;
+    display: flex;
+    justify-content: space-between;
+    background-color: #151313;
+}
+ul{
+    display: flex;
+    margin-top: 40px;
+    margin-right: 120px;
+}
+li{
+    color: white;
+    list-style-type: none;
+    cursor: pointer;
+    padding-left: 2rem;
+    font-size: 27px;
+}
+
+.img1{
+    margin-top: 100px;
+    margin-left: 130px;
+    height: 320px;
+}
+
+.divimg{
+    height: 50%;
+    width: 50%;
+    float: left;
+}
+
+.sobre{
+    margin-top: 100px;
+    height: 50%;
+    width: 50%;
+    float: right;
+
+}
+.psobre{
+    margin-top: 15px;
+    margin-right: 130px;
+
+}
+
+.beneficios{
+    height: 50%;
+    text-align: center;
+    clear: both;
+}
+
+.atendimento{
+    height: 50%;
+    width: 50%;
+    float: left;
+    text-align: left;
+}
+
+.txtatendimento{
+    margin-left: 400px;
+}
+
+.img2{
+    margin-left: 25px;
+    margin-top: 65px;
+    height: 250px;
+    width: 370px;
+}
+
+.video{
+    text-align: center;
+}
+
+.rodape{
+    background-color: #151313;
+    height: 50px;
+    color: #151313;
+}
+
+#titulo{
+   font-weight: lighter;
+}
